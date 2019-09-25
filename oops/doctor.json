@@ -1,0 +1,49 @@
+{
+    "Doctor":[
+         {   
+             "name":"Mijanur",
+             "id":"1236",
+             "speciality":"heart",
+             "avalibility":"10.00am-2.00pm",
+             "patientCount":0
+         },
+            {
+                "name":"Mofijur",
+                "id":"1232",
+                "speciality":"eye",
+                "avalibility":"11.00am-2.00pm",
+                "patientCount":0
+   
+            },
+            {
+                "name":"Saddam",
+                "id":"1232",
+                "speciality":"earnose",
+                "avalibility":"7.00pm-10.00pm",
+                "patientCount":0
+   
+            },
+            {
+            "name":"Samima",
+            "id":"1252",
+            "speciality":"physian",
+            "avalibility":"5.00pm-10.00pm",
+            "patientCount":0
+           },
+           {
+            "name":"chandana",
+            "id":"1258",
+            "speciality":"gastrology",
+            "avalibility":"5.00pm-7.00pm",
+            "patientCount":0
+           },
+           {
+            "name":"dipu",
+            "id":"1257",
+            "speciality":"dental",
+            "avalibility":"12.00pm-10.00pm",
+            "patientCount":0
+           }
+           
+            ]}
+   

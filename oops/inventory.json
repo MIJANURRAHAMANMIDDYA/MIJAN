@@ -1,0 +1,26 @@
+{
+    "inventory_details":[{
+ "Rice":
+   { "name":"Basmati",
+    "weight":"5",
+    "priceperkg":"120"
+ }
+},
+{
+ "pulses":
+    { "name":"lentils",
+      "weight":"10",
+      "priceperkg":"80"
+    }
+},
+{
+"wheats":
+{
+  "name":"hardwhite",
+  "weight":"5",
+  "priceperkg":"40"
+} 
+}]
+}
+
+        

@@ -1,0 +1,35 @@
+{
+    "Stock":[{
+        "stock1":
+        {
+            "share_name":"Infosys",
+            "number_of_share":"20",
+            "share_price":"50000"
+        }
+    },
+    {
+        "stock2":
+        {
+            "share_name":"TCS",
+            "number_of_share":"30",
+            "share_price":"55000"
+        }
+    },
+
+ {
+        "stock3":
+        {
+            "share_name":"accenture",
+            "number_of_share":"15",
+            "share_price":"25000"
+        }
+    },
+    {
+        "stock4":
+        {
+            "share_name":"IBM",
+            "number_of_share":"20",
+            "share_price":"50000"
+        }
+    }]
+}
